@@ -1,0 +1,12 @@
+
+my1\.txt
+
+__pycache__/
+
+*.pyc
+
+\.idea/workspace\.xml
+
+.idea/
+
+web_scraping/products.csv
