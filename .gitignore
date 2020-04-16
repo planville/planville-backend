@@ -10,3 +10,5 @@ __pycache__/
 .idea/
 
 web_scraping/products.csv
+
+*.csv
